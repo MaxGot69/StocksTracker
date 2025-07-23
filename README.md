@@ -35,12 +35,19 @@ Built with **SwiftUI + MVVM + CoreData**, designed for speed and scalability.
 ## 📁 Project Structure
 
 StocksTracker/
+
 ├── Models/
+
 ├── ViewModel/
+
 ├── View/
+
 ├── Services/
+
 ├── Screenshots/
+
 ├── Persistence.swift
+
 └── StocksTrackerApp.swift
 
 ## 🧠 Why this project matters
